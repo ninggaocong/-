@@ -6,8 +6,8 @@
 #### 
 ---
 - `所有项目简介` 
- - 因为东西太多、太乱，所以写了本github所有项目的简介。
- - [AAAAll-Project-Introduce](https://github.com/ninggaocong/AAAAll-Project-Introduce)
+  - 因为东西太多、太乱，所以写了本github所有项目的简介。
+  - [AAAAll-Project-Introduce](https://github.com/ninggaocong/AAAAll-Project-Introduce)
 ---
 #### 项目
 - `Trade`
