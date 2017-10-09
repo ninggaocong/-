@@ -11,9 +11,9 @@
 ---
 #### 项目
 - `Trade`
-  - 2017/5——2018/5
-  - 大三申请的创新创业创业项目(我负责Android客户端，以下服务器端源码只是个人测试用的，不完成)
-  - 服务器源码(Java Web + Hibernate + Struts2) [Server_Trade](https://github.com/ninggaocong/Server_Trade)
+  - 2017/5——2018/5
+  - 大三申请的创新创业创业项目(我负责Android客户端，以下服务器端源码只是个人测试用的，不完成)
+  - 服务器源码(Java Web + Hibernate + Struts2) [Server_Trade](https://github.com/ninggaocong/Server_Trade)
   - 客户端(Android)源码[APP-Trade](https://github.com/ninggaocong/APP-Trade)
 - `Progress`
   - 2017——至今
