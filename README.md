@@ -24,6 +24,7 @@
   - 2017(暂时结束、或有改进)
   - 测试Android与服务器通信的APP
   - Android APP源码 [APP_ServerTest](https://github.com/ninggaocong/APP_ServerTest)
+  - **发现了一个特别棒的应用`postman`. windows.Linux.Mac.Chrome全平台支持，专门用来测试API**
 ---
 #### 笔记 etc.
 - `考研资源以及个人想法`
